@@ -9,7 +9,4 @@ Technology and Packages
 - CSS
 - JavaScript
 - React
-- Redux
-- Material UI
-- Firebase
 Live-link : 

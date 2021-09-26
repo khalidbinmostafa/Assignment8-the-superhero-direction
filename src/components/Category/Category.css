@@ -1,0 +1,32 @@
+.category img{
+    width: 120px;
+    height: 120px;
+    padding-left: 40px;
+}
+.category{
+    background-color: #d4570ff3;
+    color: white;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 20px;
+}
+.added-btn{
+   background-color: yellow;
+   color: black;
+   width: 200px;
+   height: 30px;
+border: 1px solid gray;
+border-radius: 5px;
+margin-left: 30px;
+   padding: 5px;
+   cursor: pointer;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding-top: 10px;
+}
+.footer-icon{
+    text-align: center;
+}

@@ -5,11 +5,11 @@ Pixel perfect responsiveness.
 Lots of functionality that give you a better experience.
 Great design and color combination.
 Technology and Packages
-HTML
-CSS
-JavaScript
-React
-Redux
-Material UI
-Firebase
+- HTML
+- CSS
+- JavaScript
+- React
+- Redux
+- Material UI
+- Firebase
 Live-link : 

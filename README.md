@@ -9,4 +9,4 @@ Technology and Packages
 - CSS
 - JavaScript
 - React
-Live-link : 
+Live-link : https://hopeful-aryabhata-8d48dc.netlify.app/
